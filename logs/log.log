@@ -1,0 +1,167 @@
+05:07:57.581 [main] DEBUG Hospital - Connection successful
+05:07:57.585 [main] INFO  Hospital - [entity.Patient@50378a4, entity.Patient@60f00693, entity.Patient@79207381, entity.Patient@491b9b8, entity.Patient@1a4927d6]
+05:07:57.586 [main] INFO  Hospital - Пациент уже существует.
+05:07:57.587 [main] INFO  Hospital - Такой док уже есть.
+05:07:57.587 [main] INFO  Hospital - Визит не добавлен.
+05:07:57.588 [main] INFO  Hospital - Визиты Пациента в этот день:
+05:07:57.593 [main] INFO  Hospital - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+05:07:57.593 [main] INFO  Hospital - Patient ID: 1 | Doctor ID: 3 | Disease ID: 2 | Visit Date: 2024-04-01
+05:07:57.593 [main] INFO  Hospital - Визиты Пациента в этот месяц:
+05:07:57.594 [main] INFO  Hospital - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+05:07:57.594 [main] INFO  Hospital - Patient ID: 1 | Doctor ID: 3 | Disease ID: 2 | Visit Date: 2024-04-01
+05:07:57.594 [main] INFO  Hospital - Визиты Пациента в этот Год:
+05:07:57.594 [main] INFO  Hospital - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+05:07:57.594 [main] INFO  Hospital - Patient ID: 1 | Doctor ID: 3 | Disease ID: 2 | Visit Date: 2024-04-01
+05:07:57.594 [main] INFO  Hospital - Patient ID: 1 | Doctor ID: 3 | Disease ID: 2 | Visit Date: 2024-05-01
+05:07:57.595 [main] INFO  Hospital - Визиты Доктора в этот день:
+05:07:57.595 [main] INFO  Hospital - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+05:07:57.595 [main] INFO  Hospital - Patient ID: 2 | Doctor ID: 1 | Disease ID: 2 | Visit Date: 2024-04-01
+05:07:57.596 [main] INFO  Hospital - Визиты Доктора в этот месяц:
+05:07:57.596 [main] INFO  Hospital - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+05:07:57.596 [main] INFO  Hospital - Patient ID: 2 | Doctor ID: 1 | Disease ID: 2 | Visit Date: 2024-04-01
+05:07:57.596 [main] INFO  Hospital - Визиты Доктора в этот Год:
+05:07:57.597 [main] INFO  Hospital - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+05:07:57.597 [main] INFO  Hospital - Patient ID: 2 | Doctor ID: 1 | Disease ID: 2 | Visit Date: 2024-04-01
+05:07:57.597 [main] INFO  Hospital - Визиты к :Терапевт за день
+05:07:57.598 [main] INFO  Hospital - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+05:07:57.598 [main] INFO  Hospital - Patient ID: 2 | Doctor ID: 1 | Disease ID: 2 | Visit Date: 2024-04-01
+05:07:57.598 [main] INFO  Hospital - Визиты к :Терапевт за месяц
+05:07:57.598 [main] INFO  Hospital - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+05:07:57.599 [main] INFO  Hospital - Patient ID: 2 | Doctor ID: 1 | Disease ID: 2 | Visit Date: 2024-04-01
+05:07:57.599 [main] INFO  Hospital - Визиты к :Терапевт за год
+05:07:57.599 [main] INFO  Hospital - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+05:07:57.599 [main] INFO  Hospital - Patient ID: 2 | Doctor ID: 1 | Disease ID: 2 | Visit Date: 2024-04-01
+06:42:12.628 [main] DEBUG Hospital - Connection successful
+06:42:12.653 [main] INFO  Hospital - [entity.Patient@5a5a729f, entity.Patient@4b520ea8, entity.Patient@16150369, entity.Patient@6b09fb41, entity.Patient@624ea235]
+06:48:31.572 [main] DEBUG Hospital - Connection successful
+06:48:31.582 [main] INFO  Hospital - [entity.Patient@7a6d7e92, entity.Patient@aba625, entity.Patient@97e93f1, entity.Patient@5a5a729f, entity.Patient@4b520ea8]
+06:48:31.583 [main] INFO  repository.PatientRepository - Пациент уже существует.
+06:48:31.584 [main] INFO  repository.DoctorRepository - Такой док уже есть.
+06:48:31.585 [main] INFO  repository.VisitRepository - Визит не добавлен.
+06:48:31.586 [main] INFO  repository.PatientRepository - Визиты Пациента в этот день:
+06:48:31.591 [main] INFO  repository.PatientRepository - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+06:48:31.592 [main] INFO  repository.PatientRepository - Patient ID: 1 | Doctor ID: 3 | Disease ID: 2 | Visit Date: 2024-04-01
+06:48:31.592 [main] INFO  repository.PatientRepository - Визиты Пациента в этот месяц:
+06:48:31.592 [main] INFO  repository.PatientRepository - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+06:48:31.593 [main] INFO  repository.PatientRepository - Patient ID: 1 | Doctor ID: 3 | Disease ID: 2 | Visit Date: 2024-04-01
+06:48:31.593 [main] INFO  repository.PatientRepository - Визиты Пациента в этот Год:
+06:48:31.593 [main] INFO  repository.PatientRepository - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+06:48:31.593 [main] INFO  repository.PatientRepository - Patient ID: 1 | Doctor ID: 3 | Disease ID: 2 | Visit Date: 2024-04-01
+06:48:31.594 [main] INFO  repository.PatientRepository - Patient ID: 1 | Doctor ID: 3 | Disease ID: 2 | Visit Date: 2024-05-01
+06:48:31.594 [main] INFO  repository.DoctorRepository - Визиты Доктора в этот день:
+06:48:31.595 [main] INFO  repository.DoctorRepository - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+06:48:31.595 [main] INFO  repository.DoctorRepository - Patient ID: 2 | Doctor ID: 1 | Disease ID: 2 | Visit Date: 2024-04-01
+06:48:31.596 [main] INFO  repository.DoctorRepository - Визиты Доктора в этот месяц:
+06:48:31.596 [main] INFO  repository.DoctorRepository - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+06:48:31.596 [main] INFO  repository.DoctorRepository - Patient ID: 2 | Doctor ID: 1 | Disease ID: 2 | Visit Date: 2024-04-01
+06:48:31.597 [main] INFO  repository.DoctorRepository - Визиты Доктора в этот Год:
+06:48:31.597 [main] INFO  repository.DoctorRepository - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+06:48:31.597 [main] INFO  repository.DoctorRepository - Patient ID: 2 | Doctor ID: 1 | Disease ID: 2 | Visit Date: 2024-04-01
+06:48:31.598 [main] INFO  repository.DoctorRepository - Визиты к :Терапевт за день
+06:48:31.598 [main] INFO  repository.DoctorRepository - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+06:48:31.598 [main] INFO  repository.DoctorRepository - Patient ID: 2 | Doctor ID: 1 | Disease ID: 2 | Visit Date: 2024-04-01
+06:48:31.599 [main] INFO  repository.DoctorRepository - Визиты к :Терапевт за месяц
+06:48:31.599 [main] INFO  repository.DoctorRepository - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+06:48:31.600 [main] INFO  repository.DoctorRepository - Patient ID: 2 | Doctor ID: 1 | Disease ID: 2 | Visit Date: 2024-04-01
+06:48:31.600 [main] INFO  repository.DoctorRepository - Визиты к :Терапевт за год
+06:48:31.600 [main] INFO  repository.DoctorRepository - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+06:48:31.601 [main] INFO  repository.DoctorRepository - Patient ID: 2 | Doctor ID: 1 | Disease ID: 2 | Visit Date: 2024-04-01
+07:01:44.041 [main] DEBUG Hospital - Connection successful
+07:01:44.052 [main] INFO  Hospital - [entity.Patient@491b9b8, entity.Patient@1a4927d6, entity.Patient@7a6d7e92, entity.Patient@aba625, entity.Patient@97e93f1]
+07:01:44.052 [main] INFO  repository.PatientRepository - Пациент уже существует.
+07:01:44.053 [main] INFO  repository.DoctorRepository - Такой док уже есть.
+07:01:44.054 [main] INFO  repository.VisitRepository - Визит не добавлен.
+07:01:44.054 [main] INFO  repository.PatientRepository - Визиты Пациента в этот день:
+07:01:44.060 [main] INFO  repository.PatientRepository - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+07:01:44.060 [main] INFO  repository.PatientRepository - Patient ID: 1 | Doctor ID: 3 | Disease ID: 2 | Visit Date: 2024-04-01
+07:01:44.061 [main] INFO  repository.PatientRepository - Визиты Пациента в этот месяц:
+07:01:44.061 [main] INFO  repository.PatientRepository - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+07:01:44.061 [main] INFO  repository.PatientRepository - Patient ID: 1 | Doctor ID: 3 | Disease ID: 2 | Visit Date: 2024-04-01
+07:01:44.061 [main] INFO  repository.PatientRepository - Визиты Пациента в этот Год:
+07:01:44.062 [main] INFO  repository.PatientRepository - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+07:01:44.062 [main] INFO  repository.PatientRepository - Patient ID: 1 | Doctor ID: 3 | Disease ID: 2 | Visit Date: 2024-04-01
+07:01:44.062 [main] INFO  repository.PatientRepository - Patient ID: 1 | Doctor ID: 3 | Disease ID: 2 | Visit Date: 2024-05-01
+07:01:44.062 [main] INFO  repository.DoctorRepository - Визиты Доктора в этот день:
+07:01:44.063 [main] INFO  repository.DoctorRepository - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+07:01:44.063 [main] INFO  repository.DoctorRepository - Patient ID: 2 | Doctor ID: 1 | Disease ID: 2 | Visit Date: 2024-04-01
+07:01:44.064 [main] INFO  repository.DoctorRepository - Визиты Доктора в этот месяц:
+07:01:44.064 [main] INFO  repository.DoctorRepository - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+07:01:44.064 [main] INFO  repository.DoctorRepository - Patient ID: 2 | Doctor ID: 1 | Disease ID: 2 | Visit Date: 2024-04-01
+07:01:44.064 [main] INFO  repository.DoctorRepository - Визиты Доктора в этот Год:
+07:01:44.065 [main] INFO  repository.DoctorRepository - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+07:01:44.065 [main] INFO  repository.DoctorRepository - Patient ID: 2 | Doctor ID: 1 | Disease ID: 2 | Visit Date: 2024-04-01
+07:01:44.066 [main] INFO  repository.DoctorRepository - Визиты к :Терапевт за день
+07:01:44.066 [main] INFO  repository.DoctorRepository - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+07:01:44.066 [main] INFO  repository.DoctorRepository - Patient ID: 2 | Doctor ID: 1 | Disease ID: 2 | Visit Date: 2024-04-01
+07:01:44.066 [main] INFO  repository.DoctorRepository - Визиты к :Терапевт за месяц
+07:01:44.067 [main] INFO  repository.DoctorRepository - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+07:01:44.067 [main] INFO  repository.DoctorRepository - Patient ID: 2 | Doctor ID: 1 | Disease ID: 2 | Visit Date: 2024-04-01
+07:01:44.067 [main] INFO  repository.DoctorRepository - Визиты к :Терапевт за год
+07:01:44.067 [main] INFO  repository.DoctorRepository - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+07:01:44.068 [main] INFO  repository.DoctorRepository - Patient ID: 2 | Doctor ID: 1 | Disease ID: 2 | Visit Date: 2024-04-01
+23:34:59.018 [main] DEBUG Hospital - Connection successful
+23:34:59.085 [main] INFO  Hospital - [entity.Patient@79207381, entity.Patient@491b9b8, entity.Patient@1a4927d6, entity.Patient@7a6d7e92, entity.Patient@aba625]
+23:34:59.086 [main] INFO  repository.PatientRepository - Пациент уже существует.
+23:34:59.094 [main] INFO  repository.DoctorRepository - Такой док уже есть.
+23:34:59.100 [main] INFO  repository.VisitRepository - Визит не добавлен.
+23:34:59.101 [main] INFO  repository.PatientRepository - Визиты Пациента в этот день:
+23:34:59.106 [main] INFO  repository.PatientRepository - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+23:34:59.106 [main] INFO  repository.PatientRepository - Patient ID: 1 | Doctor ID: 3 | Disease ID: 2 | Visit Date: 2024-04-01
+23:34:59.107 [main] INFO  repository.PatientRepository - Визиты Пациента в этот месяц:
+23:34:59.107 [main] INFO  repository.PatientRepository - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+23:34:59.107 [main] INFO  repository.PatientRepository - Patient ID: 1 | Doctor ID: 3 | Disease ID: 2 | Visit Date: 2024-04-01
+23:34:59.107 [main] INFO  repository.PatientRepository - Визиты Пациента в этот Год:
+23:34:59.108 [main] INFO  repository.PatientRepository - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+23:34:59.108 [main] INFO  repository.PatientRepository - Patient ID: 1 | Doctor ID: 3 | Disease ID: 2 | Visit Date: 2024-04-01
+23:34:59.108 [main] INFO  repository.PatientRepository - Patient ID: 1 | Doctor ID: 3 | Disease ID: 2 | Visit Date: 2024-05-01
+23:34:59.109 [main] INFO  repository.DoctorRepository - Визиты Доктора в этот день:
+23:34:59.109 [main] INFO  repository.DoctorRepository - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+23:34:59.109 [main] INFO  repository.DoctorRepository - Patient ID: 2 | Doctor ID: 1 | Disease ID: 2 | Visit Date: 2024-04-01
+23:34:59.110 [main] INFO  repository.DoctorRepository - Визиты Доктора в этот месяц:
+23:34:59.110 [main] INFO  repository.DoctorRepository - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+23:34:59.110 [main] INFO  repository.DoctorRepository - Patient ID: 2 | Doctor ID: 1 | Disease ID: 2 | Visit Date: 2024-04-01
+23:34:59.111 [main] INFO  repository.DoctorRepository - Визиты Доктора в этот Год:
+23:34:59.111 [main] INFO  repository.DoctorRepository - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+23:34:59.111 [main] INFO  repository.DoctorRepository - Patient ID: 2 | Doctor ID: 1 | Disease ID: 2 | Visit Date: 2024-04-01
+23:34:59.112 [main] INFO  repository.DoctorRepository - Визиты к :Терапевт за день
+23:34:59.112 [main] INFO  repository.DoctorRepository - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+23:34:59.112 [main] INFO  repository.DoctorRepository - Patient ID: 2 | Doctor ID: 1 | Disease ID: 2 | Visit Date: 2024-04-01
+23:34:59.113 [main] INFO  repository.DoctorRepository - Визиты к :Терапевт за месяц
+23:34:59.113 [main] INFO  repository.DoctorRepository - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+23:34:59.113 [main] INFO  repository.DoctorRepository - Patient ID: 2 | Doctor ID: 1 | Disease ID: 2 | Visit Date: 2024-04-01
+23:34:59.114 [main] INFO  repository.DoctorRepository - Визиты к :Терапевт за год
+23:34:59.114 [main] INFO  repository.DoctorRepository - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+23:34:59.114 [main] INFO  repository.DoctorRepository - Patient ID: 2 | Doctor ID: 1 | Disease ID: 2 | Visit Date: 2024-04-01
+15:44:56.444 [main] DEBUG Hospital - Connection successful
+15:44:56.496 [main] INFO  Hospital - [entity.Patient@1a4927d6, entity.Patient@7a6d7e92, entity.Patient@aba625, entity.Patient@97e93f1, entity.Patient@5a5a729f]
+15:44:56.496 [main] INFO  repository.PatientRepository - Пациент уже существует.
+15:44:56.504 [main] INFO  repository.DoctorRepository - Такой док уже есть.
+15:44:56.510 [main] INFO  repository.VisitRepository - Визит не добавлен.
+15:44:56.510 [main] INFO  repository.PatientRepository - Визиты Пациента в этот день:
+15:44:56.515 [main] INFO  repository.PatientRepository - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+15:44:56.515 [main] INFO  repository.PatientRepository - Patient ID: 1 | Doctor ID: 3 | Disease ID: 2 | Visit Date: 2024-04-01
+15:44:56.515 [main] INFO  repository.PatientRepository - Визиты Пациента в этот месяц:
+15:44:56.516 [main] INFO  repository.PatientRepository - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+15:44:56.516 [main] INFO  repository.PatientRepository - Patient ID: 1 | Doctor ID: 3 | Disease ID: 2 | Visit Date: 2024-04-01
+15:44:56.516 [main] INFO  repository.PatientRepository - Визиты Пациента в этот Год:
+15:44:56.517 [main] INFO  repository.PatientRepository - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+15:44:56.517 [main] INFO  repository.PatientRepository - Patient ID: 1 | Doctor ID: 3 | Disease ID: 2 | Visit Date: 2024-04-01
+15:44:56.517 [main] INFO  repository.PatientRepository - Patient ID: 1 | Doctor ID: 3 | Disease ID: 2 | Visit Date: 2024-05-01
+15:44:56.517 [main] INFO  repository.DoctorRepository - Визиты Доктора в этот день:
+15:44:56.518 [main] INFO  repository.DoctorRepository - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+15:44:56.518 [main] INFO  repository.DoctorRepository - Patient ID: 2 | Doctor ID: 1 | Disease ID: 2 | Visit Date: 2024-04-01
+15:44:56.518 [main] INFO  repository.DoctorRepository - Визиты Доктора в этот месяц:
+15:44:56.518 [main] INFO  repository.DoctorRepository - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+15:44:56.518 [main] INFO  repository.DoctorRepository - Patient ID: 2 | Doctor ID: 1 | Disease ID: 2 | Visit Date: 2024-04-01
+15:44:56.519 [main] INFO  repository.DoctorRepository - Визиты Доктора в этот Год:
+15:44:56.519 [main] INFO  repository.DoctorRepository - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+15:44:56.519 [main] INFO  repository.DoctorRepository - Patient ID: 2 | Doctor ID: 1 | Disease ID: 2 | Visit Date: 2024-04-01
+15:44:56.520 [main] INFO  repository.DoctorRepository - Визиты к :Терапевт за день
+15:44:56.520 [main] INFO  repository.DoctorRepository - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+15:44:56.520 [main] INFO  repository.DoctorRepository - Patient ID: 2 | Doctor ID: 1 | Disease ID: 2 | Visit Date: 2024-04-01
+15:44:56.520 [main] INFO  repository.DoctorRepository - Визиты к :Терапевт за месяц
+15:44:56.521 [main] INFO  repository.DoctorRepository - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+15:44:56.521 [main] INFO  repository.DoctorRepository - Patient ID: 2 | Doctor ID: 1 | Disease ID: 2 | Visit Date: 2024-04-01
+15:44:56.521 [main] INFO  repository.DoctorRepository - Визиты к :Терапевт за год
+15:44:56.522 [main] INFO  repository.DoctorRepository - Patient ID: 1 | Doctor ID: 1 | Disease ID: 1 | Visit Date: 2024-04-01
+15:44:56.522 [main] INFO  repository.DoctorRepository - Patient ID: 2 | Doctor ID: 1 | Disease ID: 2 | Visit Date: 2024-04-01
